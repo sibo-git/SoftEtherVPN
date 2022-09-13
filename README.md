@@ -1,7 +1,7 @@
 # SoftEther VPN
 
 ||Badges|
-|---|---|
+|---|---| s
 |AppVeyor|[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/softethervpn/softethervpn?branch=master&svg=true)](https://ci.appveyor.com/project/softethervpn/softethervpn) |
 |GitLab CI|[![GitLab CI build status](https://gitlab.com/SoftEther/SoftEtherVPN/badges/master/pipeline.svg)](https://gitlab.com/SoftEther/SoftEtherVPN/pipelines)|
 |Coverity Scan|[![Coverity Scan build status](https://scan.coverity.com/projects/16304/badge.svg)](https://scan.coverity.com/projects/softethervpn-softethervpn)|
